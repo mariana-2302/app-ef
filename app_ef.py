@@ -154,8 +154,8 @@ Responde de forma concisa y clara en español.
 # INTERFAZ STREAMLIT
 # =======================
 
-st.set_page_config(page_title="Chat PDF con MongoDB + Gemini + Cohere: ", page_icon="💬")
-st.title("💬 Chat PDF con MongoDB + Gemini + Cohere: "+USER)
+st.set_page_config(page_title="Chat PDF con MongoDB + Gemini + Cohere: ", page_icon="💬💯")
+st.title("💬💯 Chat PDF con MongoDB + Gemini + Cohere: "+USER)
 
 archivo_pdf = st.file_uploader("📤 Sube un PDF", type=["pdf"])
 
